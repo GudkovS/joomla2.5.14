@@ -1,3 +1,9 @@
+login: admin
+pass: admin
+
+db_name: joomla2
+db_pass: joomla2
+
 1- What is this?
     * This is a Joomla! installation/upgrade package to version 2.5.x
     * Joomla! Official site: http://www.joomla.org
